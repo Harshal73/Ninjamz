@@ -15,10 +15,10 @@ const About = () => {
        
        <div className='flex flex-col pt-10' >
         <h1 className='text-2xl font-bold pb-10' >Explanation video Malayalam</h1>
-       <iframe width="350" height="215"  src="https://www.youtube.com/embed/CCHdMIEGaaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe width="350" height="215"  src="https://www.youtube.com/embed/kXyktnrM-dI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </div>
        <div className='pt-10' >
-       <iframe width="350" height="215" src="https://www.youtube.com/embed/ySLc8gZ3oEc" title="YouTube video play" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe width="350" height="215" src="https://www.youtube.com/embed/ToJOyyN3ELE" title="YouTube video play" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
        
     </div>
