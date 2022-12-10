@@ -9,9 +9,9 @@ const About = () => {
         <p className='text-4xl font-bold inline border-b-4 border-gray-300 '>Pricing</p>
       </div>
         <br/>
-       <h1 className='text-4xl font-bold' >Ninjatrader + Orderflowfootprints : 10000 Rs or 122 usd /-</h1>
-       <h1 className='text-4xl font-bold pt-10 '>Mzpack : 3999rs or 48 usd /-</h1>
-       <h1 className='text-4xl font-bold pt-10'>Neurostreet: 4999rs or 61 usd /-</h1>
+       <h1 className='text-4xl font-bold' >Ninjatrader + Orderflowfootprints : 15000 Rs or 180 usd /-</h1>
+       <h1 className='text-4xl font-bold pt-10 '>Mzpack : 7500 rs or 91 usd /-</h1>
+       <h1 className='text-4xl font-bold pt-10'>Neurostreet: 7500 rs  or 91 usd /-</h1>
        
        <div className='flex flex-col pt-10' >
         <h1 className='text-2xl font-bold pb-10' >Explanation video Malayalam</h1>
